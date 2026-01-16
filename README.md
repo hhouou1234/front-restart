@@ -1,5 +1,8 @@
 # Roadmap: From Zero to Remote Web Work
+## memo
 
+- https://qiita.com/aisplay/items/0012ba3040edbe4b852b?utm_source=chatgpt.com
+- 
 ## このリポジトリについて
 このリポジトリは、  
 **未経験・社会経験ほぼなしの状態から、在宅でお金を稼げるようになるまでの記録と実践用リポジトリ**。
